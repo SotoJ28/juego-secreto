@@ -1,3 +1,7 @@
 # Título del Proyecto
 
-_Adivina el número_
+_Juego Secreto
+
+- Estado del proyecto finalizado.
+
+- Juego Secreto 2

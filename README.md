@@ -1,3 +1,3 @@
-# Título del Proyecto
+## Título del Proyecto
 
 _Adivina el número_
